@@ -14,6 +14,11 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+    
+div.fixed {
+    position: fixed;
+    top: 0;
+    left: 0; }
 
 .btn {
   display: inline-block;

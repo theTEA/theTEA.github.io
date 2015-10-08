@@ -18,7 +18,9 @@ a {
 div.fixed {
     position: fixed;
     top: 0;
-    left: 0; }
+    left: 0; 
+    z-index: -1;
+}
 
 .btn {
   display: inline-block;
